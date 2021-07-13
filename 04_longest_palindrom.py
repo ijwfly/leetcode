@@ -44,6 +44,7 @@ if __name__ == '__main__':
         'cbbd': 'bb',
         'a': 'a',
         'ac': 'a',
+        'bb': 'bb',
     }
 
     s = Solution()
